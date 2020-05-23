@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Do-Not-Spill-Beans/static/css/main.e2f38fd9.chunk.css",
+    "main.js": "/Do-Not-Spill-Beans/static/js/main.cd6c5c13.chunk.js",
+    "main.js.map": "/Do-Not-Spill-Beans/static/js/main.cd6c5c13.chunk.js.map",
+    "runtime-main.js": "/Do-Not-Spill-Beans/static/js/runtime-main.1ba5d165.js",
+    "runtime-main.js.map": "/Do-Not-Spill-Beans/static/js/runtime-main.1ba5d165.js.map",
+    "static/js/2.64dfb9cd.chunk.js": "/Do-Not-Spill-Beans/static/js/2.64dfb9cd.chunk.js",
+    "static/js/2.64dfb9cd.chunk.js.map": "/Do-Not-Spill-Beans/static/js/2.64dfb9cd.chunk.js.map",
+    "index.html": "/Do-Not-Spill-Beans/index.html",
+    "precache-manifest.fe61bc52b0cc60c2a0dce311e294350d.js": "/Do-Not-Spill-Beans/precache-manifest.fe61bc52b0cc60c2a0dce311e294350d.js",
+    "service-worker.js": "/Do-Not-Spill-Beans/service-worker.js",
+    "static/css/main.e2f38fd9.chunk.css.map": "/Do-Not-Spill-Beans/static/css/main.e2f38fd9.chunk.css.map",
+    "static/js/2.64dfb9cd.chunk.js.LICENSE.txt": "/Do-Not-Spill-Beans/static/js/2.64dfb9cd.chunk.js.LICENSE.txt",
+    "static/media/bean.png": "/Do-Not-Spill-Beans/static/media/bean.e62fdc1a.png",
+    "static/media/killerBean.png": "/Do-Not-Spill-Beans/static/media/killerBean.82ed41b4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ba5d165.js",
+    "static/js/2.64dfb9cd.chunk.js",
+    "static/css/main.e2f38fd9.chunk.css",
+    "static/js/main.cd6c5c13.chunk.js"
+  ]
+}
