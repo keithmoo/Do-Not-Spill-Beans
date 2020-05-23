@@ -1,0 +1,61 @@
+
+.stage {
+  display: flex;
+  width: 50%;
+  margin: auto;
+  flex-flow: row;
+  justify-content: space-around;
+}
+
+.balanceStage {
+  display: flex;
+  margin: auto;
+  width: 180px;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.beanBucket {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+#beanpic {
+  display: flex;
+  height: 50px;
+  width: 70px;
+}
+
+#push {
+  height: 175px;
+  width: 250px;
+  font-size: 22pt;
+}
+
+.buttons {
+  font-size: 18pt;
+}
+
+.red {
+  height: 75px;
+  width: 75px; 
+  border-radius: 50%;
+  background-color: red;
+}
+
+.Warning {
+  height: 75px;
+  width: 75px;
+  border: solid black 3px;
+}
+
+.warningText {
+  font-size: 12pt;
+  margin-bottom: 0pt;
+  padding-bottom: 0pt;
+}
+
+.rules {
+  font-size: 16pt;
+  border: solid green
+}
